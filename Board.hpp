@@ -8,5 +8,6 @@ public:
 
 private:
     Simple_window& window;
-    int x_size;
+    int x_size = window.x_max();
+    int y_size = window.y_max();
 };
