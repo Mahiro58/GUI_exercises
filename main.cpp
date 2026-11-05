@@ -8,6 +8,7 @@
 
     // learning about C++ GUI
 
+
 int main(){
     using namespace Graph_lib;
 
@@ -21,6 +22,8 @@ int main(){
     
     win.set_label("Test");
     win.wait_for_button();
+
+    //tests
 
 
     return 0;
