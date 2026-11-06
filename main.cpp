@@ -23,7 +23,7 @@ int main(){
     win.set_label("Test");
     win.wait_for_button();
 
-    //tests
+    //tests google test
 
 
     return 0;
