@@ -24,6 +24,7 @@ int main(){
     win.wait_for_button();
 
     //gtests last
+    // przygotowanie do 2D
 
 
     return 0;
